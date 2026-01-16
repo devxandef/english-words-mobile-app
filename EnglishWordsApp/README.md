@@ -574,8 +574,9 @@ O projeto demonstra uma arquitetura bem estruturada, com separação clara de re
 - Experiência de usuário fluida com suporte offline
 - Sincronização inteligente de dados entre dispositivos
 
-
+---
 ## Links apresentação
 
 https://drive.google.com/file/d/1wu1LpcA1a5dzzRSgbpqR8t90hDGccKmZ/view?usp=sharing
+
 https://drive.google.com/file/d/11FRhtm03EzeUNIRF7BieDKDbR5vCqA0R/view?usp=sharing
