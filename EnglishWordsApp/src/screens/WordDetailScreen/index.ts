@@ -1,0 +1,2 @@
+export { WordDetailScreen } from './WordDetailScreen';
+

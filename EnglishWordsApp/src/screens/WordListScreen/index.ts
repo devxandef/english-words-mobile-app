@@ -1,0 +1,2 @@
+export { WordListScreen } from './WordListScreen';
+
